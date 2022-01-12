@@ -30,9 +30,11 @@ You can also run Haskell programs on [repl.it](https://repl.it/), or install oth
   - Extended Example: [Tic-Tac-Toe](https://github.com/JavaPLT/haskell-course/tree/main/tictactoe) (Command Line Interface, Graphical Interface)
   - [Lecture Notes](https://agnishom.github.io/haskell-21/lectures/lecture7), [Lecture Video](https://www.youtube.com/watch?v=LIl7P8wUrUI&list=PLl06Ohc4hwoGc8NDc8Lu-TxluNc3KEJow&index=7)
 * Assignment 1 (Assigned: November 15 , Due: November 22)
-  - [Template Repository](https://github.com/JavaPLT/assignment-9/)
+  - [Stack Template](haskell-21/assignment-9/)
 * Assignment 2 (Assigned: November 22 , Due: December 6)
-  - [Template Repository](https://github.com/JavaPLT/assignment-10/)
+  - [Stack Template](haskell-21/assignment-10/)
+* [Sample Exam](haskell-21/sample-exam/exam.md))
+  - [Sample Exam Solution](haskell-21/sample-exam/solution.md)
 
 ## Other Haskell Resources
 
