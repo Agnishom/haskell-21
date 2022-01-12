@@ -24,17 +24,17 @@ You can also run Haskell programs on [repl.it](https://repl.it/), or install oth
   - Other Monads (Maybe, List, State)
   - [Lecture Notes](https://agnishom.github.io/haskell-21/lectures/lecture5), [Lecture Video](https://www.youtube.com/watch?v=Vl1KrsPQ1o8&list=PLl06Ohc4hwoGc8NDc8Lu-TxluNc3KEJow&index=5)
 * Lecture 6 (Thursday, November 30)
-  - Extended Example: [Tic-Tac-Toe](https://github.com/JavaPLT/haskell-course/tree/main/tictactoe) (Core Game Logic)
+  - Extended Example: [Tic-Tac-Toe](https://github.com/Agnishom/haskell-21/tree/main/tictactoe) (Core Game Logic)
   - [Lecture Notes](https://agnishom.github.io/haskell-21/lectures/lecture6), [Lecture Video](https://www.youtube.com/watch?v=s9-_Jx8ZOU4&list=PLl06Ohc4hwoGc8NDc8Lu-TxluNc3KEJow&index=6)
 * Lecture 7 (Thursday, December 2)
-  - Extended Example: [Tic-Tac-Toe](https://github.com/JavaPLT/haskell-course/tree/main/tictactoe) (Command Line Interface, Graphical Interface)
+  - Extended Example: [Tic-Tac-Toe](https://github.com/Agnishom/haskell-21/tree/main/tictactoe) (Command Line Interface, Graphical Interface)
   - [Lecture Notes](https://agnishom.github.io/haskell-21/lectures/lecture7), [Lecture Video](https://www.youtube.com/watch?v=LIl7P8wUrUI&list=PLl06Ohc4hwoGc8NDc8Lu-TxluNc3KEJow&index=7)
 * Assignment 1 (Assigned: November 15 , Due: November 22)
-  - [Stack Template](haskell-21/assignment-9/)
+  - [Stack Template](https://agnishom.github.io/haskell-21/assignment-9/)
 * Assignment 2 (Assigned: November 22 , Due: December 6)
-  - [Stack Template](haskell-21/assignment-10/)
-* [Sample Exam](haskell-21/sample-exam/exam.md)
-  - [Sample Exam Solution](haskell-21/sample-exam/solution.md)
+  - [Stack Template](https://agnishom.github.io/haskell-21/assignment-10/)
+* [Sample Exam](https://agnishom.github.io/haskell-21/sample-exam/exam)
+  - [Sample Exam Solution](https://agnishom.github.io/haskell-21/sample-exam/solution)
 
 ## Other Haskell Resources
 
