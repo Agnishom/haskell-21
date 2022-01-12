@@ -33,7 +33,7 @@ You can also run Haskell programs on [repl.it](https://repl.it/), or install oth
   - [Stack Template](haskell-21/assignment-9/)
 * Assignment 2 (Assigned: November 22 , Due: December 6)
   - [Stack Template](haskell-21/assignment-10/)
-* [Sample Exam](haskell-21/sample-exam/exam.md))
+* [Sample Exam](haskell-21/sample-exam/exam.md)
   - [Sample Exam Solution](haskell-21/sample-exam/solution.md)
 
 ## Other Haskell Resources
